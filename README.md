@@ -16,7 +16,7 @@
 
 - 💡 Passionate about creating full-stack web apps with **React, Node.js, MongoDB & Express**
 - 🌱 Currently leveling up with **Next.js, TypeScript & Testing (Jest/Playwright)**
-- 🛠️ Love building **scalable UIs**, pixel-perfect layouts, and interactive experiences with **GSAP & Tailwind CSS**
+- 🛠️ Love building **scalable UIs**, pixel-perfect layouts, and interactive experiences with **Motion & Tailwind CSS**
 - ⚡ I believe in clean code, component reusability, and continuous learning
 
 ---
