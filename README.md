@@ -31,6 +31,7 @@
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white"/>
   <img src="https://img.shields.io/badge/Framer_Motion-EF5C56?style=flat&logo=framer&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React Native Badge"/>
   <img src="https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux&logoColor=white"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white"/>
 
