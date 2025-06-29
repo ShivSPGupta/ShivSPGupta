@@ -77,7 +77,7 @@ React | Redux | MongoDB | Firebase | Express.js
 A Netflix-inspired OTT platform where users can explore and stream content.  
 🔗 [GitHub](https://github.com/ShivSPGupta/flixxit-app) | [Live Demo](https://flixxit-app.vercel.app/)
 
-####🎨 Figma to React UI
+#### 🎨 Figma to React UI
 React + Figma Design | Vite
 Converted a Figma UI mockup into a responsive, component-based React application. Focused on clean code, pixel-perfect design, and modular architecture. 
 🔗 [GitHub](https://github.com/ShivSPGupta/QuadB_Tech/tree/main/W2/Figma_Task/digital-agency) | [Live Demo](https://figmatask-digital-agency.vercel.app/)
