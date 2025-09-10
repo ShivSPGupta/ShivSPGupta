@@ -86,6 +86,12 @@ Converted a Figma UI mockup into a responsive, component-based React application
 
 ### 💼 Work Experience
 
+**🌟 MERN Stack Intern**
+🔵 SequelString AI Pvt Ltd | *Jul 2025 – Present | New Delhi*
+- Assisted in building and maintaining web applications using MongoDB, Express.js, React, and Node.js
+- Contributed to both front-end and back-end tasks across real-world client projects
+- Participated in agile sprints, code reviews, and team collaboration sessions
+
 **💻 React.js Developer Trainee**  
 🟢 QuadB Technologies | *Apr 2025 – May 2025 | Remote*  
 - Developed reusable UI components using React, Tailwind, Bootstrap  
