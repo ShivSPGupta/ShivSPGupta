@@ -4,7 +4,7 @@
 <h3 align="center">🚀 Full-Stack Developer | MERN Enthusiast | UI/UX Crafter</h3>
 
 <p align="center">
-  <a href="mailto:s.s.p.gupta11@gmail.com"><img src="https://img.shields.io/badge/Email-s.s.p.gupta11@gmail.com-red?style=flat-square&logo=gmail"></a>
+  <a href="mailto:sspgupta005@gmail.com"><img src="https://img.shields.io/badge/Email-sspgupta005@gmail.com-red?style=flat-square&logo=gmail"></a>
   <a href="https://www.linkedin.com/in/shiv-shankar-gupta/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/ShivSPGupta" target="_blank"><img src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github"></a>
   <a href="https://shivgupta.dev" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23ff5722?style=flat-square&logo=web&logoColor=white"></a>
@@ -130,7 +130,7 @@ I can write code in caffeine-fueled sprints and talk about components like they'
 ### 📬 Let's Connect
 
 <p>
-  <a href="mailto:s.s.p.gupta11@gmail.com"><img src="https://img.shields.io/badge/Email-Me-informational?style=for-the-badge&logo=gmail&logoColor=white&color=EA4335"/></a>
+  <a href="mailto:sspgupta005@gmail.com"><img src="https://img.shields.io/badge/Email-Me-informational?style=for-the-badge&logo=gmail&logoColor=white&color=EA4335"/></a>
   <a href="https://www.linkedin.com/in/shiv-shankar-gupta/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://shivgupta.dev"><img src="https://img.shields.io/badge/Portfolio-Visit-%23FF5722?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>
   <a href="https://github.com/ShivSPGupta"><img src="https://img.shields.io/badge/GitHub-Follow-000?style=for-the-badge&logo=github&logoColor=white"/></a>
