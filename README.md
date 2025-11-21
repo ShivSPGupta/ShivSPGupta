@@ -132,7 +132,7 @@ I can write code in caffeine-fueled sprints and talk about components like they'
 <p>
   <a href="mailto:sspgupta005@gmail.com"><img src="https://img.shields.io/badge/Email-Me-informational?style=for-the-badge&logo=gmail&logoColor=white&color=EA4335"/></a>
   <a href="https://www.linkedin.com/in/shiv-shankar-gupta/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://shivgupta.dev"><img src="https://img.shields.io/badge/Portfolio-Visit-%23FF5722?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>
+  <a href="https://sspgupta-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-%23FF5722?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>
   <a href="https://github.com/ShivSPGupta"><img src="https://img.shields.io/badge/GitHub-Follow-000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
