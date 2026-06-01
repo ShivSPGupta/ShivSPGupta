@@ -126,12 +126,15 @@ Building scalable web applications, secure backend systems, realtime application
 
 ---
 
+
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ShivSPGupta&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivSPGupta&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ShivSPGupta&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ShivSPGupta&layout=compact&theme=tokyonight" />
 </p>
+
+
 
 ---
 
