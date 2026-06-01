@@ -1,142 +1,155 @@
-<!-- GitHub Profile README for Shiv Shankar Gupta -->
+# Hi 👋, I'm Shiv Shankar Gupta
 
-<h1 align="center">Hi 👋, I'm Shiv Shankar Gupta</h1>
-<h3 align="center">🚀 Full-Stack Developer | MERN Enthusiast </h3>
+### Software Engineer | Full Stack Developer | JavaScript • React.js • Next.js • Node.js • NestJS
+
+Building scalable web applications, secure backend systems, realtime applications, and high-performance digital products using JavaScript, TypeScript, React.js, Next.js, NestJS, PostgreSQL, MongoDB, Redis, Docker, and modern DevOps practices.
+
+<p align="left">
+  <a href="mailto:sspgupta005@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/shiv-shankar-gupta/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" />
+  </a>
+  <a href="https://github.com/ShivSPGupta">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=flat-square&logo=github" />
+  </a>
+  <a href="https://sspgupta-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-orange?style=flat-square&logo=google-chrome" />
+  </a>
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+- 🚀 Full Stack Developer with experience building production-grade applications using React.js, Next.js, Node.js, Express.js, and NestJS
+- 🔐 Experienced in JWT Authentication, RBAC, OTP Verification, Redis-based Session Management, and API Security
+- ⚡ Built realtime communication systems using Socket.IO and event-driven architectures
+- 🗄️ Worked with PostgreSQL, MongoDB, MySQL, Redis, and scalable database design
+- 🐳 Hands-on experience with Docker, GitHub Actions, CI/CD Pipelines, Nginx, AWS S3, and deployment automation
+- 📚 Passionate about backend engineering, scalable system design, performance optimization, and cloud technologies
+- 🤝 Open to Software Engineer, Full Stack Developer, Backend Developer, and Product Engineering opportunities
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
+### Frontend
+![React.js](https://img.shields.io/badge/React.js-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=flat&logo=mui&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat&logo=socketdotio&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
+
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=flat&logo=firebase&logoColor=black)
+
+### Testing & Documentation
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+
+### DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI/CD-0A66C2?style=flat)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
+![AWS S3](https://img.shields.io/badge/AWS_S3-FF9900?style=flat&logo=amazonaws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+
+
+---
+
+## 🚀 Featured Project
+
+### 🎬 Flixxit – Full Stack OTT Platform
+
+**Tech Stack:** React.js • Redux • Node.js • Express.js • MongoDB • JWT • Tailwind CSS
+
+- Built a Netflix-inspired streaming platform with secure authentication and protected routes
+- Developed reusable React components with centralized state management using Redux
+- Designed scalable REST APIs and MongoDB data models
+- Implemented responsive UI for seamless cross-device experiences
+
+🔗 **Live Demo:** https://flixxit-app.vercel.app/
+
+🔗 **Repository:** https://github.com/ShivSPGupta/flixxit-app
+
+---
+
+## 💼 Current Experience
+
+### Full Stack Developer Intern | CollabKaroo
+
+**Feb 2026 – Present**
+
+- Building scalable backend services using NestJS, PostgreSQL, Redis, and Sequelize ORM
+- Implementing JWT Authentication, OTP Verification, RBAC, and secure access control
+- Developing realtime communication systems with Socket.IO
+- Working with Docker, CI/CD Pipelines, GitHub Actions, Jest, Swagger, and Nginx
+
+---
+
+## 🎯 Core Expertise
+
+- Full Stack Development
+- Backend Engineering
+- REST API Development
+- Authentication & Authorization
+- Realtime Communication
+- Database Design
+- Performance Optimization
+- Deployment Automation
+- CI/CD Pipelines
+- Scalable System Architecture
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <a href="mailto:sspgupta005@gmail.com"><img src="https://img.shields.io/badge/Email-sspgupta005@gmail.com-red?style=flat-square&logo=gmail"></a>
-  <a href="https://www.linkedin.com/in/shiv-shankar-gupta/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/ShivSPGupta" target="_blank"><img src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github"></a>
-  <a href="https://sspgupta-portfolio.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23ff5722?style=flat-square&logo=web&logoColor=white"></a>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ShivSPGupta&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivSPGupta&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-### 👨‍💻 About Me
+## 🏆 Highlights
 
-- 💡 Passionate about creating full-stack web apps with **React, Node.js, MongoDB & Express**
-- 🌱 Currently leveling up with **Next.js, TypeScript & Testing (Jest/Playwright)**
-- 🛠️ Love building **scalable UIs**, pixel-perfect layouts, and interactive experiences with **Motion & Tailwind CSS**
-- ⚡ I believe in clean code, component reusability, and continuous learning
-
----
-
-### 🧠 Tech Stack & Tools
-
-<p>
-  <!-- Frontend -->
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Framer_Motion-EF5C56?style=flat&logo=framer&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React Native Badge"/>
-  <img src="https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white"/>
-
-  <!-- Backend -->
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=flat"/>
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white"/>
-
-  <!-- Databases -->
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
-
-  <!-- Data Visualization -->
-  <img src="https://img.shields.io/badge/D3.js-F9A03C?style=flat&logo=d3.js&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat&logo=chartdotjs&logoColor=white"/>
-
-  <!-- Testing -->
-  <img src="https://img.shields.io/badge/React Testing Library-E33332?style=flat&logo=testing-library&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white"/>
-
-  <!-- Dev Tools -->
-  <img src="https://img.shields.io/badge/Firebase-ffca28?style=flat&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white"/>
-
-  <!-- Programming Languages -->
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-</p>
-
+- 🥇 AIR 651 in IPTSE
+- 🎯 A+ Grade in National Talent Hunt Examination
+- 💼 Experience across Frontend, Backend, Realtime Systems, Databases, and DevOps
+- 🚀 Passionate about building scalable and impactful software products
 
 ---
 
-### 🚀 Featured Projects
+## 📫 Let's Connect
 
-#### 🎬 Flixxit – OTT Streaming App  
-React | Redux | MongoDB | Firebase | Express.js  
-A Netflix-inspired OTT platform where users can explore and stream content.  
-🔗 [GitHub](https://github.com/ShivSPGupta/flixxit-app) | [Live Demo](https://flixxit-app.vercel.app/)
+📧 Email: sspgupta005@gmail.com
 
-#### 🎨 Figma to React UI
-React + Figma Design | Vite
-Converted a Figma UI mockup into a responsive, component-based React application. Focused on clean code, pixel-perfect design, and modular architecture. 
-🔗 [GitHub](https://github.com/ShivSPGupta/QuadB_Tech/tree/main/W2/Figma_Task/digital-agency) | [Live Demo](https://figmatask-digital-agency.vercel.app/)
+💼 LinkedIn: https://linkedin.com/in/shiv-shankar-gupta
 
----
+🌐 Portfolio: https://sspgupta-portfolio.vercel.app
 
-### 💼 Work Experience
-
-**🌟 MERN Stack Intern**  
-🔵 SequelString AI Pvt. Ltd. | *Jul 2025 – Sep 2025 | New Delhi*  
-- Assisted in building and maintaining web applications using MongoDB, Express.js, React, and Node.js
-- Contributed to both front-end and back-end tasks across real-world client projects
-- Participated in agile sprints, code reviews, and team collaboration sessions
-
-**💻 React.js Developer Trainee**  
-🟢 QuadB Technologies | *Apr 2025 – May 2025 | Remote*  
-- Developed reusable UI components using React, Tailwind, Bootstrap  
-- Integrated REST APIs and state-managed via Redux  
-- Collaborated in React Native module design and Figma conversions  
-
-**🌐 Web Developer Intern**  
-🟠 7Star Medtech Pvt. Ltd. | *Jan 2025 – Apr 2025 | Noida*  
-- Built dynamic websites using HTML, CSS, JS, React, PHP & WordPress  
-- Designed backend schema using MySQL & created PHP APIs
-
----
-
-### 📚 Education & Certificates
-
-🎓 **Full Stack MERN Development Diploma – Upgrad/KnowledgeHut**  
-💻 **B.Tech – Jaipur National University**  
-📜 **Python Course – Internshala**
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShivSPGupta&show_icons=true&theme=tokyonight&hide=prs"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivSPGupta&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
-### ⚡ Fun Fact  
-I can write code in caffeine-fueled sprints and talk about components like they're pets 😄
-
----
-
-### 📬 Let's Connect
-
-<p>
-  <a href="mailto:sspgupta005@gmail.com"><img src="https://img.shields.io/badge/Email-Me-informational?style=for-the-badge&logo=gmail&logoColor=white&color=EA4335"/></a>
-  <a href="https://www.linkedin.com/in/shiv-shankar-gupta/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://sspgupta-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-%23FF5722?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>
-  <a href="https://github.com/ShivSPGupta"><img src="https://img.shields.io/badge/GitHub-Follow-000?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
-
-<!---
-ShivSPGupta/ShivSPGupta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 GitHub: https://github.com/ShivSPGupta
