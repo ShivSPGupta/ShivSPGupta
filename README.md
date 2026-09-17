@@ -100,9 +100,9 @@ Building scalable web applications, secure backend systems, realtime application
 
 ## 💼 Current Experience
 
-### Full Stack Developer Intern | CollabKaroo
+### Full Stack Developer | CollabKaroo
 
-**Feb 2026 – Present**
+**Feb 2026 – Jun 2026**
 
 - Building scalable backend services using NestJS, PostgreSQL, Redis, and Sequelize ORM
 - Implementing JWT Authentication, OTP Verification, RBAC, and secure access control
