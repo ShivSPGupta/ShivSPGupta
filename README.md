@@ -102,7 +102,7 @@ Building scalable web applications, secure backend systems, realtime application
 
 ### Full Stack Developer | CollabKaroo
 
-**Feb 2026 – Jun 2026**
+**Feb 2026 – Jul 2026**
 
 - Building scalable backend services using NestJS, PostgreSQL, Redis, and Sequelize ORM
 - Implementing JWT Authentication, OTP Verification, RBAC, and secure access control
